@@ -1,0 +1,10 @@
+.container{
+    width:100px;
+    height:100px;
+    position:sticky;
+    top:70px;
+    left:30px;
+    background-color:blue;
+
+
+}

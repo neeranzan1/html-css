@@ -1,0 +1,46 @@
+
+
+
+h1{
+    text-align:center;
+    color:blue;
+}
+
+
+p{
+    text-align:right;
+    color:red;
+
+}
+body{
+    background-color:yellow
+};
+
+
+buttom{
+    color:green;
+}
+/* id selector */
+#hello{
+    text-align:right;
+    color:green;
+}
+
+div{
+    text-align:center;
+    background-color:green;
+    color:red;
+}
+
+
+
+form{
+    color:black;
+}
+
+/* class selector */
+.h{
+
+    color:red;
+    text-align:left;
+}
